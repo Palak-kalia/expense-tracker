@@ -1,0 +1,14 @@
+/Users/palak/Desktop/expense-tracker/expense-tracker_admin_complete_2025_modified/src/main/java/com/example/expensetracker/ExpenseTrackerApplication.java
+/Users/palak/Desktop/expense-tracker/expense-tracker_admin_complete_2025_modified/src/main/java/com/example/expensetracker/controller/UserController.java
+/Users/palak/Desktop/expense-tracker/expense-tracker_admin_complete_2025_modified/src/main/java/com/example/expensetracker/dto/InsightsDTO.java
+/Users/palak/Desktop/expense-tracker/expense-tracker_admin_complete_2025_modified/src/main/java/com/example/expensetracker/service/ExpenseService.java
+/Users/palak/Desktop/expense-tracker/expense-tracker_admin_complete_2025_modified/src/main/java/com/example/expensetracker/repository/ExpenseRepository.java
+/Users/palak/Desktop/expense-tracker/expense-tracker_admin_complete_2025_modified/src/main/java/com/example/expensetracker/controller/ExpenseController.java
+/Users/palak/Desktop/expense-tracker/expense-tracker_admin_complete_2025_modified/src/main/java/com/example/expensetracker/repository/UserRepository.java
+/Users/palak/Desktop/expense-tracker/expense-tracker_admin_complete_2025_modified/src/main/java/com/example/expensetracker/exception/GlobalExceptionHandler.java
+/Users/palak/Desktop/expense-tracker/expense-tracker_admin_complete_2025_modified/src/main/java/com/example/expensetracker/controller/FinanceAIController.java
+/Users/palak/Desktop/expense-tracker/expense-tracker_admin_complete_2025_modified/src/main/java/com/example/expensetracker/service/FinanceAIService.java
+/Users/palak/Desktop/expense-tracker/expense-tracker_admin_complete_2025_modified/src/main/java/com/example/expensetracker/dto/RecurringExpenseDTO.java
+/Users/palak/Desktop/expense-tracker/expense-tracker_admin_complete_2025_modified/src/main/java/com/example/expensetracker/models/User.java
+/Users/palak/Desktop/expense-tracker/expense-tracker_admin_complete_2025_modified/src/main/java/com/example/expensetracker/models/Expense.java
+/Users/palak/Desktop/expense-tracker/expense-tracker_admin_complete_2025_modified/src/main/java/com/example/expensetracker/service/UserService.java
